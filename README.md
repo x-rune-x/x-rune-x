@@ -5,4 +5,4 @@ I enjoy coding bioinformatics problems from the website Rosalind along with othe
 I typically work with Python but have some knowledge of Java, JavaScript and HTML.
 I've recently started getting into C#.
 
-Please feel free to have a look through my random assortment of code.
+Feel free to have a look through my random assortment of code.
